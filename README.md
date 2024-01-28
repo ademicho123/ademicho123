@@ -7,12 +7,15 @@ I am a passionate and results-driven data scientist/ML Engineer with a knack for
 ## Experience
 
 - **Data Science Bootcamp, HyperionDev, London, UK**
+
 I developed a sophisticated AI chatbot using ChatterBot, showcasing my proficiency in natural language processing (NLP) and enhancing conversational agent capabilities. I implemented sentiment analysis with the spaCy library, demonstrating my understanding of text processing and sentiment classification techniques. I designed and constructed an insurance model using regression models from scikit-learn, highlighting my ability to apply machine learning algorithms to real-world business problems. I acquired expertise in coding with Python and utilized various libraries crucial for data science, contributing to my solid foundation in data manipulation and analysis. I excelled in data visualization and storytelling, translating complex findings into clear and compelling narratives for diverse audiences.
 
 - **Finance Specialist, Dancom Technologies Ltd, Lagos, Nigeria**
+
 I led and managed a team member, overseeing the accurate preparation, analysis, and presentation of financial and budgetary reports on a monthly, quarterly, and annual basis. I consistently delivered accurate and timely financial reports, demonstrating my commitment to precision and meeting deadlines. I utilized Microsoft Power BI to showcase business performance metrics and conducted high-level variance analysis by comparing financial statements against forecasts. Additionally, I applied data analysis techniques to identify gaps and transform complex information into detailed guides, contributing to improved decision-making processes within the organization.
 
 - **Data Science/ML Fellow, Fellowship.AI**
+
 I contributed to the development of the ChatGPT Wealth Advisor solution, engaging in tasks from data collection to production and employing Agile methodology for project management and model development. In the process, I utilized the BeautifulSoup Python Library for effective data scraping and incorporated the latest research in deep learning, reinforcement learning, and generative adversarial networks.
 
 ## Education
