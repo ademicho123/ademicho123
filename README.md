@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate and results-driven data scientist/ML Engineer with a knack for turning data into actionable insights. My journey in the world of technology has equipped me with a diverse skill set, including proficiency in natural language processing (NLP), sentiment analysis, and machine learning model development. My experiences span from creating sophisticated AI chatbots to designing and implementing predictive models for real-world business problems.
+Highly motivated Data Scientist passionate about Generative AI, Natural Language Processing (NLP), Large Language Models (LLMs), Agentic AI, Predictive Modeling, and Retrieval Augmented Generation (RAG). Proven ability to build sophisticated AI chatbots and agents (including Microsoft Copilot-based projects) and leverage deep learning models (Keras, TensorFlow, Langchain). Proficient in Python libraries (NumPy, Pandas, spaCy, Scikit-Learn) for data science. Eager to contribute to advancing Predictive Modeling, Generative AI, NLP, autonomous AI agents, and RAG to deliver exceptional solutions in a commercial environment.
 
 ## Experience
 
@@ -12,7 +12,9 @@ I developed a sophisticated AI chatbot using ChatterBot, showcasing my proficien
 
 - **Finance Specialist, Dancom Technologies Ltd, Lagos, Nigeria**
 
-I led and managed a team member, overseeing the accurate preparation, analysis, and presentation of financial and budgetary reports on a monthly, quarterly, and annual basis. I consistently delivered accurate and timely financial reports, demonstrating my commitment to precision and meeting deadlines. I utilized Microsoft Power BI to showcase business performance metrics and conducted high-level variance analysis by comparing financial statements against forecasts. Additionally, I applied data analysis techniques to identify gaps and transform complex information into detailed guides, contributing to improved decision-making processes within the organization.
+Led and managed a team member, overseeing the accurate preparation, analysis, and presentation of financial and budgetary reports on a monthly, quarterly, and annual basis.
+Utilized Microsoft Power BI to showcase business performance metrics and conducted high-level variance analysis by comparing financial statements against forecasts.
+Applied data analysis techniques to identify gaps and transform complex information into detailed guides, contributing to improved decision-making processes within the organization.
 
 - **Data Science/ML Fellow, Fellowship.AI**
 
@@ -50,7 +52,8 @@ I contributed to the development of the ChatGPT Wealth Advisor solution, engagin
 
 Explore some of my notable projects, including:
 
-- [AI Chatbot using ChatterBot](https://github.com/ademicho123/uni-buddy): A sophisticated chatbot showcasing proficiency in NLP.
+- [Financial Sentiment Analysis with Explainable AI](https://github.com/ademicho123/financial_sentiment_analysis): Empowering Financial Decision-Making with Explainable AI and Real-Time Sentiment Analysis.
+- [Simple AI Financial Chatbot](https://github.com/ademicho123/Simple-AI-Financial-Chatbot): AI Financial Advisor
 - [Sentiment Analysis with spaCy](https://github.com/ademicho123/finalCapstone): Implementation of sentiment analysis techniques.
 - [Insurance Model using scikit-learn](https://github.com/ademicho123/Insurance-Predictive-Model): Regression modeling for real-world business problems.
 
