@@ -2,7 +2,7 @@
 
 ## About Me
 
-Highly motivated Data Scientist passionate about Generative AI, Natural Language Processing (NLP), Large Language Models (LLMs), Agentic AI, Predictive Modeling, and Retrieval Augmented Generation (RAG). Proven ability to build sophisticated AI chatbots and agents (including Microsoft Copilot-based projects) and leverage deep learning models (Keras, TensorFlow, Langchain). Proficient in Python libraries (NumPy, Pandas, spaCy, Scikit-Learn) for data science. Eager to contribute to advancing Predictive Modeling, Generative AI, NLP, autonomous AI agents, and RAG to deliver exceptional solutions in a commercial environment.
+Data Scientist with extensive experience designing and deploying end-to-end AI/ML solutions. Proficient in building scalable pipelines, implementing NLP, and developing predictive models using Python, PyTorch, Flask, and cloud platforms. Delivered impactful projects, such as fraud detection with 99.99% precision, sentiment analysis dashboards, and insurance premium prediction models. Passionate about solving real-world challenges and driving business growth through AI.
 
 ## Experience
 
