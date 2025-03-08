@@ -5,14 +5,8 @@
 AI Data Scientist with experience developing and deploying end-to-end AI/ML solutions. Proven ability to build scalable pipelines, implement NLP, and develop predictive models using Python, PyTorch, Flask, and cloud platforms. Seeking to leverage my expertise in AI and data science to drive innovation and solve complex problems.
 
 ## Experience
-- **Contract AI Engineer, AI Agents Agency, London, UK **
-•	Developed and fine-tuned AI models (GPT-4 Turbo, LLaMA 3, BERT) for health-related conversational AI and recommendation engines.
-•	Implemented personalized recommendation algorithms using machine learning and reinforcement learning techniques.
-•	Built and trained NLP models for a conversational AI chatbot, including sentiment analysis and context retention.
-•	Processed and preprocessed health-related data from various sources, ensuring data privacy and compliance (GDPR, HIPAA).
-•	Deployed and optimized AI models for scalable real-time inference on cloud platforms (AWS, Google Cloud, Azure).
-•	Developed ontology-based systems for symptoms to product matching.
-•	Ensured AI response compliance with FDA and EU AI Act.
+- **Contract AI Engineer, AI Agents Agency, London, UK**
+Developed and fine-tuned AI models (GPT-4 Turbo, LLaMA 3, BERT) for health-related conversational AI and recommendation engines. Implemented personalized recommendation algorithms using machine learning and reinforcement learning techniques. Built and trained NLP models for a conversational AI chatbot, including sentiment analysis and context retention. Processed and preprocessed health-related data from various sources, ensuring data privacy and compliance (GDPR, HIPAA). Deployed and optimized AI models for scalable real-time inference on cloud platforms (AWS, Google Cloud, Azure). Developed ontology-based systems for symptoms to product matching. Ensured AI response compliance with FDA and EU AI Act.
 
 - **Data Science Bootcamp, HyperionDev, London, UK**
 
