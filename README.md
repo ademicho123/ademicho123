@@ -56,8 +56,9 @@ I contributed to the development of the ChatGPT Wealth Advisor solution, engagin
 Explore some of my notable projects, including:
 
 - [Financial Sentiment Analysis with Explainable AI](https://github.com/ademicho123/financial_sentiment_analysis): Empowering Financial Decision-Making with Explainable AI and Real-Time Sentiment Analysis.
-- [Simple AI Financial Chatbot](https://github.com/ademicho123/Simple-AI-Financial-Chatbot): AI Financial Advisor
-- [Sentiment Analysis with spaCy](https://github.com/ademicho123/finalCapstone): Implementation of sentiment analysis techniques.
+- [AI RAG Chatbot](https://github.com/ademicho123/AI-RAG-Chatbot)): AI RAG Chatbot
+- [LLM Movie Recommendation System](https://github.com/ademicho123/LLM-Movie-Recommendation-System): A smart movie recommendation system that uses The Movie Database (TMDb) API and language models to provide 
+  personalized movie suggestions based on natural language queries.
 - [Insurance Model using scikit-learn](https://github.com/ademicho123/Insurance-Predictive-Model): Regression modeling for real-world business problems.
 
 Feel free to explore my repositories and connect with me to discuss collaboration opportunities or share insights. Let's innovate and learn together! 🚀
